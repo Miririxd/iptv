@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png" group-title="Deportes",La liga
+#EXTINF:-1 tvg-logo="none.png" group-title="Deportes",depo
 https://dca5.vdcast.live/dJMOstGNI_6A2kmQ2XiEag/1760929401/3139302e36322e32312e3139/ff872/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="Deportes",DirectTVSport
 https://enyr.envivotv.live/dsports/tracks-v1a1/mono.m3u8?remote=190.150.108.252&token=d84bf6e9e502e2c626998240bddd76e9e9da89ea-b6531950e4a6cc57ec87272233eb3aad-1760894392-1760883592
